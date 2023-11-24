@@ -1,0 +1,41 @@
+
+.home {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.first-container {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    gap: 30px;
+    background-color: rgb(196, 154, 111);
+    border-radius: 5px;
+}
+.first-pic {
+    width: 400px;
+}
+
+.first-pic img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+
+.second-container {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    gap: 30px;
+    background-color: rgb(196, 154, 111);
+    border-radius: 5px;
+}
+.second-pic {
+    width: 400px;
+}
+
+.second-pic img {
+    width: 100%;
+    border-radius: 50%;
+}
